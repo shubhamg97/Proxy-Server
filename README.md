@@ -7,5 +7,5 @@ This project basically saves the website you just searched for (in this case www
 ## Instructions for use
 1) Open `cmd` into this directory
 2) Type in: `ProxyServer.py [yourIP]`
-3) Open Chrome (or your preffered browser) and type in: localhost:9876/www.google.com
+3) Open Chrome (or your preffered browser) and type in: `localhost:9876/www.google.com`
 
